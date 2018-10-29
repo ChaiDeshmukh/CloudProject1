@@ -1,0 +1,14 @@
+com\filezila\dao\FileDao.class
+com\filezila\controller\FileController.class
+com\filezila\model\User.class
+com\filezila\config\MvcConfiguration.class
+com\filezila\config\AmazonS3Config.class
+com\filezila\model\FileDetails.class
+com\filezila\controller\HomeController.class
+com\filezila\dao\UserDao.class
+com\filezila\controller\RestWebController.class
+com\filezila\service\FileService.class
+com\filezila\service\UserService.class
+com\filezila\service\AmazonClientService.class
+com\filezila\starter\StartApp.class
+com\filezila\controller\IdTokenVerifierAndParser.class
