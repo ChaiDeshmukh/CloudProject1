@@ -19,4 +19,6 @@ Navicat or MySql workbench
 Download the source code from GIT and import it as a maven project into eclipse. When the project is imported the maven pom.xml will resolve and import all the dependencies. The dependencies include AWS SDK, Spring Boot.
 Run the spring boot project
 
+![Screenshot](ArchitectureDiagram.png)
+
 
