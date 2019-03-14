@@ -28,3 +28,10 @@ Run the spring boot project
 ![ArchitectureDiagram](https://github.com/ChaiDeshmukh/CloudProject1/blob/master/ArchitectureDiagram.PNG)
 
 
+![](Images/Capture.PNG)
+
+![](Images/Capture1.PNG)
+
+![](Images/Capture3.PNG)
+
+
